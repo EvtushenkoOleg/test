@@ -2,20 +2,20 @@
 
 # Файлы проекта
 Название | Описание
- | --- | --- |
- | testNokia.cpp | файл для реализации тестового задания |
- | testNokia.h |  |
- | ├─ printValues.cpp |  |
- | ├─ printValues.h |  |
- | ├─ calc.cpp |  |
- | ├─ calc.h |  |
- | ──├─ calculateCell.cpp |  |
- | ──├─ calculateCell.h |  |
- | ────├─ getValue.cpp |  |
- | ────├─getValue.h |  |
-+ tests/ - директория с тестовыми файлами
-+ Makefile - make-файл для сборки и тестирования программы
-+ testNokia.cpp - 
+| --- | --- |
+| testNokia.cpp | файл для реализации тестового задания |
+| testNokia.h |  |
+| ├─ printValues.cpp |  |
+| ├─ printValues.h |  |
+| ├─ calc.cpp |  |
+| ├─ calc.h |  |
+| ──├─ calculateCell.cpp |  |
+| ──├─ calculateCell.h |  |
+| ────├─ getValue.cpp |  |
+| ────├─getValue.h |  |
+| tests/ | директория с тестовыми файлами |
+| Makefile_unix| make-файл для сборки и тестирования программы под unix |
+| Makefile_windows | make-файл для сборки и тестирования программы под windows |
 
 # Руководство
 ###### Пример выполнения:
