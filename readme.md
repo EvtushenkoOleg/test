@@ -5,14 +5,14 @@
  | --- | --- |
  | testNokia.cpp | файл для реализации тестового задания |
  | testNokia.h |  |
- | --printValues.cpp |  |
- | --printValues.h |  |
- |  --calc.cpp |  |
- |  --calc.h |  |
- |    --calculateCell.cpp |  |
- |    --calculateCell.h |  |
- |      --getValue.cpp |  |
- |      --getValue.h |  |
+ | ├─ printValues.cpp |  |
+ | ├─ printValues.h |  |
+ | ──├─ calc.cpp |  |
+ | ──├─ calc.h |  |
+ | ─────├─ calculateCell.cpp |  |
+ | ─────├─ calculateCell.h |  |
+ | ────────├─ getValue.cpp |  |
+ | ────────├─getValue.h |  |
 + tests/ - директория с тестовыми файлами
 + Makefile - make-файл для сборки и тестирования программы
 + testNokia.cpp - 
